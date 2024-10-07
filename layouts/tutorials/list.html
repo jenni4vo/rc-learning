@@ -1,5 +1,16 @@
 {{- define "main" -}}
 {{ partial "page_header.html" . }}
+
+<style>
+    .btn {
+        background-color: #62BB46;
+        color: white;
+    }
+    .btn-info {
+        background-color: #009FDF;
+    }
+    
+</style>
 <div class="universal-wrapper">
     {{ with .Content }}
     <div class="article-style">{{ . }}</div>
