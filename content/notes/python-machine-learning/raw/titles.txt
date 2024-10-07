@@ -1,0 +1,15 @@
+Machine Learning for Python
+What is machine learning?
+Decision Trees
+Coding a Decision Tree
+Random Forest
+Coding a Random Forest
+Neural Networks
+Neural Network Example
+Tensor Flow
+Coding a Tensor Flow 
+PyTorch
+Coding a Pytorch
+Multi-GPU Example
+Supplemental Material
+
