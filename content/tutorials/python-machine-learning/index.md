@@ -8,6 +8,7 @@ tags : ["ml","python"]
 weight: 320
 
 notes: python-machine-learning
+url_code: notes/python-machine-learning/code/ML_with_Python.zip 
 ---
 
 This tutorial wil go over Machine Learning concepts using Python discussing the following topics: 
@@ -25,4 +26,4 @@ This tutorial wil go over Machine Learning concepts using Python discussing the 
 * Overview of Parallelizing Deep Learning
     * Coding Multi-GPU Program
 
-As mentioned above, example codes will be provided for respective topics.
+As mentioned above, example codes will be provided for respective topics. Please download the code above to follow along.
